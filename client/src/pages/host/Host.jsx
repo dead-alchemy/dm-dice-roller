@@ -1,4 +1,4 @@
-import {Box, Heading, Button} from "@chakra-ui/react";
+import {Box, Heading} from "@chakra-ui/react";
 
 const Host = () => {
 	return (
